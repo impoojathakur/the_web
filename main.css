@@ -1,10 +1,23 @@
 html {
   font-family: "Poppins", sans-serif;
-  background-color: #e5ece9;
-  color: #f78e69;
+  background-color: #ffe4f3;
+  color: #290012;
 }
 
 h1 {
   font-family: "Cinzel", serif;
 }
+
+.main {
+  margin: 0 auto;
+  max-width: 60%;
+  padding: 1rem;
+  background-color: #ff92c2;
+}
+
+.main img {
+  width: 600px;
+  max-width: 100%;
+}
+
 
